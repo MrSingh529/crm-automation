@@ -1,0 +1,11 @@
+libgtk-3-0
+libgbm-dev
+libnss3
+libxss1
+libasound2
+libxtst6
+fonts-liberation
+libappindicator3-1
+xdg-utils
+wget
+curl
